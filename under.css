@@ -1,0 +1,80 @@
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+  height: auto;
+}
+.image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+  height: auto;
+}
+
+.image2 {
+  position: absolute;
+  top: 51%;
+  left: 1%;
+  max-width: auto;
+  height: 5%;
+}
+
+.image3 {
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    max-width: auto;
+    height: 5%;
+  }
+
+  .image4 {
+    position: absolute;
+    top: 72%;
+    left: 22%;
+    max-width: auto;
+  height: 5%;
+  }
+
+  .image5 {
+    position: absolute;
+    top: 78%;
+    left: 33%;
+    max-width: auto;
+    height: 5%;
+  }
+
+  .image6 {
+    position: absolute;
+    top: 35%;
+    left: 41%;
+    max-width: auto;
+    height: 5%;
+  }
+
+  .image7 {
+    position: absolute;
+    top: 42%;
+    left: 55%;
+    max-width: auto;
+    height: 5%;
+  }
+
+  .image8 {
+    position: absolute;
+    top: 73%;
+    left: 63%;
+    max-width: auto;
+    height: 5%;
+  }
+
+  .image9 {
+    position: absolute;
+    top: 87%;
+    left: 74%;
+    max-width: auto;
+    height: 5%;
+  }
+
+ 
